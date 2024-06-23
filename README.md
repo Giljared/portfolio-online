@@ -6,7 +6,7 @@ portffolio online html css javascript
 #  Portffolio On-line html, css & javascript! 👋 
 
 ## Versão Descktop...
-# Link: https://portfolio-gil-silva.netlify.app/
+# Link: https://portfolio-gilvanete-silva.netlify.app/
 </span>
 
 ![meuPortfólioHtmlcssJS](https://github.com/Giljared/portfolio-online/assets/64940515/5f7549bb-fc1d-4c89-b606-1f36d088c5f2)
@@ -17,7 +17,7 @@ portffolio online html css javascript
 #  Portffolio )n-line html, css & javascript! 👋 
 
 ## Versão Mobile...
-# Link: https://portfolio-gil-silva.netlify.app/
+# Link: https://portfolio-gilvanete-silva.netlify.app/
 
 </span>
 
